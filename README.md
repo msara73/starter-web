@@ -3,7 +3,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 	This is web starter project`
-	Local Repository File
+	Working Directory File
 	
 ## Purpose
 
