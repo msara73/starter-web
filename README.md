@@ -2,7 +2,8 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-	Web project
+	This is web starter project`
+	REMOTE Repository File
 	
 ## Purpose
 
