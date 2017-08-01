@@ -8,7 +8,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 	Sample website with plenty of files for demos 
-	
+	Push the changes after pull from remote
 ## Deployment
 
 ## Contribution
