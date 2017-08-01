@@ -12,3 +12,5 @@ This repository is for showing how Git and GitHub work
 ## Deployment
 
 ## Contribution
+### Copyright notice
+     Copyright 2017 
